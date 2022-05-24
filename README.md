@@ -1,5 +1,11 @@
 Olá, eu sou o Thomas
 
-Criei este perfil a fim de registrar e compartilhar todo o conhecimento que adquiri em forma de projetos, durante a minha jornada na área de tecnologia.
+Criei esta conta a fim de registrar e compartilhar os conhecimentos adquiridos ao longo da minha "jornada".
 
-Tenho estudado Engenharia e Governança de Dados.
+---
+
+Hi, I'm Thomas
+
+I've created this account to register and share the knowledge acquired during my "journey".
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslima)
