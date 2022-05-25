@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=thmlima87&show_icons=true&count_private=true&theme=tokyonight&hide=issues)
+![](https://github-readme-stats.vercel.app/api?username=thmlima87&show_icons=true&count_private=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thmlima87&layout=compact&theme=tokyonight)
 
 
